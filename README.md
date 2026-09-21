@@ -17,4 +17,4 @@ I am a Software Engineering student at Tecmilenio and a Full Stack Developer foc
 *   **Email:** vktr.1001@proton.me
 
 ### ⚡ Outside of Code
-When I'm not configuring my terminal or debugging a Spring Boot application, you can usually find me riding downhill mountain bike trails, hitting PRs in my home powerbuilding gym, playing RPGs on the PS5, or hanging out with my Doberman, Drugo.
+When I'm not configuring my terminal or debugging a Spring Boot application, you can usually find me riding downhill mountain bike trails, hitting PRs in my home powerbuilding gym, playing RPGs, shooters, or hanging out with my Doberman, Drugo.
